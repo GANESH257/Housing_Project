@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "877207627153",
+    "project_id": "projecth-f01e3",
+    "storage_bucket": "projecth-f01e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877207627153:android:da28f58e4604a97546e630",
+        "android_client_info": {
+          "package_name": "com.example.housing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877207627153-ir1h9ttl2lp7iro1gc058ulolmuomepv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbzfCMJQ_3u7qVK4wmRGGG1sQ2kXIevHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877207627153-ir1h9ttl2lp7iro1gc058ulolmuomepv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
